@@ -40,7 +40,7 @@ public class CardTrick {
         luckyCard.setSuit("Clubs");
         
         System.out.println("\nSearching for the lucky card: " + luckyCard.getValue() + " of " + luckyCard.getSuit());
-
+        //i edited this comment in on github
         //search for lucky card
         boolean found = false;
         for (Card card : magicHand) {
